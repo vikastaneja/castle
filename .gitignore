@@ -1,1 +1,6 @@
+#removing all .class files
 *.class
+
+#remove target folder
+target/
+
